@@ -1,0 +1,81 @@
+@media all and (min-width: 320px) {
+
+h1 {
+  font-size: 40px;
+  font-family: 'Istok Web', sans-serif;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: 'Istok Web', sans-serif;
+}
+
+p, li, a {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+}
+
+.warm li {
+  color: black;
+}
+
+.background {
+  position: relative;
+}
+
+.colors {
+  height: 600px;
+}
+
+.text {
+  position: absolute;
+  top: 0;
+  margin: 0 auto;
+}
+
+.cold {
+  background-color: blue;
+  height: 600px;
+}
+
+.cold img {
+  width: 50%;
+}
+
+.warm {
+  background-color: yellow;
+  height: 600px;
+}
+
+.warm img {
+  width: 50%;
+}
+
+
+}/*--------------------------------------end of mobile style rules-------------------------------------------------------*/
+@media all and (min-width: 700px) {
+
+
+
+
+
+
+
+
+
+
+
+}/*--------------------------------------end of tablet style rules---------------------------------------------------------*/
+@media all and (min-width: 960px) {
+
+
+
+
+
+
+
+
+
+
+
+}/*--------------------------------------end of desktop style rules---------------------------------------------------------*/
